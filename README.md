@@ -19,5 +19,4 @@ The repository includes a set of findings from the Crime Report app, highlightin
 ## Usage
 The insights provided in this repository can be used by researchers, policy makers, and the general public to understand crime patterns in Boston and to aid in decision-making processes.
 
-## Contributing
-Contributions to this project are welcome. Please fork the repository and submit a pull request with your suggested changes.
+
