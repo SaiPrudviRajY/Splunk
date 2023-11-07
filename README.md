@@ -20,4 +20,4 @@ The repository includes a set of findings from the Crime Report app, highlightin
 The insights provided in this repository can be used by researchers, policy makers, and the general public to understand crime patterns in Boston and to aid in decision-making processes.
 
 ## Acknowledgments
-This project utilizes data sourced from Kaggle. We would like to express our gratitude to the original compilers of the dataset and Kaggle for hosting it, enabling us to conduct this analysis. The insights and findings presented in this repository are based on the dataset available on [Kaggle's Boston Crime Incident Reports page](<(https://www.kaggle.com/datasets/christianjungmann/boston-incidents-2015-2022?select=2021.csv)).
+This project utilizes data sourced from Kaggle. We would like to express our gratitude to the original compilers of the dataset and Kaggle for hosting it, enabling us to conduct this analysis. The insights and findings presented in this repository are based on the dataset available on [Boston Incidents 2016-2022](<(https://www.kaggle.com/datasets/christianjungmann/boston-incidents-2015-2022?select=2021.csv)).
